@@ -1,0 +1,10 @@
+h1 {
+	background: blue;
+	color: red;
+}
+body {
+  font-family: system-ui;
+  background: #f06d06;
+  color: green;
+  text-align: center;
+}
